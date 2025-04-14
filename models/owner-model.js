@@ -8,12 +8,17 @@ const ownerSchema = mongoose. Schema ({
     },
     email: String,
     password: String,
-    products: {
+    contact: Number,
+    product: {
         type: Array,
         default: [],
     },
     picture: String,
     gstin: String,
+    date: {
+        type: Date,
+        default: Date.now,
+    },
 }) ;
 
 module. exports = mongoose.model("owner", ownerSchema) ;
