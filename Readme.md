@@ -26,3 +26,7 @@ Scatch- A premium bag's webApp designed to provide a seamless online shopping ex
 - **Bcrypt**: For hashing passwords securely.
 - **Express-session**: For managing user sessions.
 - **Dotenv**: For environment variable management.
+
+- ## 📸 Project Preview
+
+![Preview](.projectDemo.png)
