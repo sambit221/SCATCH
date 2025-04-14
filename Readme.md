@@ -27,6 +27,6 @@ Scatch- A premium bag's webApp designed to provide a seamless online shopping ex
 - **Express-session**: For managing user sessions.
 - **Dotenv**: For environment variable management.
 
-- ## 📸 Project Preview
+## 📸 Project Preview
 
-![Preview](.projectDemo.png)
+<img align="left" alt="project preview" src="projectDemo.png" />
